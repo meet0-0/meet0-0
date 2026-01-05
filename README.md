@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I’m Meet Patel, a Computer Engineering Student.<br>I’m interested in systems and FPGA/digital design, and I enjoy building projects that work close to the hardware.<br><br>I primarily work with C/C++, VHDL, and Vivado, focusing on strong fundamentals, clean design, and understanding how systems behave under the hood.<br><br>Currently seeking internships in systems, software or hardware-oriented roles.
+Hi, I’m Meet Patel, a Computer Engineering Student.<br>I’m interested in systems and FPGA/digital design, and I enjoy building projects that work close to the hardware.<br><br>I primarily work with C/C++, VHDL, and Java, focusing on strong fundamentals, clean design, and understanding how systems behave under the hood.<br><br>Currently seeking internships in systems, FGPA or hardware-oriented roles.
 
 
 ## 🌐 Socials:
